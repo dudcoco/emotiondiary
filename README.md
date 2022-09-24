@@ -14,7 +14,7 @@
 
  ### **Open Source Software License**
   * _GPL / LGPL / MIT / Apache2.0 Licenses_
-![Licenses][https://docs.google.com/presentation/d/1HJM_NecZ2YZMin9NEL7-_PbZnj44ahYD/mobilepresent?slide=id.p14]
+![Licenses](https://i.ibb.co/9gqtSyk/Kakao-Talk-20220924-231200821.jpg)
 
 -------
 
@@ -24,25 +24,25 @@
 
 ### **General Actions in VCS**
 1. Checkin
-![checkin][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.p5]
+![checkin](https://i.ibb.co/jWmDXs4/Kakao-Talk-20220924-231200821-01.jpg)
 2. Checkout and Editing
-![checkout and editing][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.p6]
+![checkout and editing](https://i.ibb.co/w09ydBv/Kakao-Talk-20220924-231200821-02.jpg)
 3. Diffs
-![diffs][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.p7]
+![diffs](https://i.ibb.co/X7pBgjp/Kakao-Talk-20220924-231200821-03.jpg)
 4. Branching
-![branching][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.p8]
+![branching](https://i.ibb.co/w4W0nKr/Kakao-Talk-20220924-231200821-04.jpg)
 5. Merging
-![merging][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.p9]
+![merging](https://i.ibb.co/RS2XTXn/Kakao-Talk-20220924-231200821-05.jpg)
 6. Conflicts
-![conflicts][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.p10]
+![conflicts](https://i.ibb.co/4Phj09x/Kakao-Talk-20220924-231200821-06.jpg)
 7. Tagging
-![tagging][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.p12]
+![tagging](https://i.ibb.co/gJP5Jyg/Kakao-Talk-20220924-231200821-07.jpg)
 
 
 -------
 > ## Week 2-2 Git
 ### **An Introduction to GIT: Workflow**
-![git][https://docs.google.com/presentation/d/1y_XxFORFUVf5NVa40FTFmv9MemetVjBj/mobilepresent?slide=id.g152e30d49ad_1_0]
+![git](https://i.ibb.co/SXtr63J/Kakao-Talk-20220924-231200821-08.jpg)
 
 -------
 
